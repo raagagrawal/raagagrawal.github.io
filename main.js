@@ -1,7 +1,13 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const sampleButton = document.getElementById('sample-button');
-    
-    sampleButton.addEventListener('click', function() {
-        alert('Button clicked!');
+    document.getElementById('about-button').addEventListener('click', function() {
+        alert('About button clicked!');
+    });
+
+    document.getElementById('research-button').addEventListener('click', function() {
+        alert('Research button clicked!');
+    });
+
+    document.getElementById('blog-button').addEventListener('click', function() {
+        alert('Blog button clicked!');
     });
 });
