@@ -1,18 +1,19 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     background-color: white;
     color: blue;
+    text-align: left;
+    margin: 0;
+    padding: 0;
 }
 
 header {
     background-color: blue;
     color: white;
-    text-align: center;
     padding: 1em;
 }
 
 #button-container {
-    text-align: center;
     margin-bottom: 1em;
 }
 
@@ -26,7 +27,7 @@ header {
 }
 
 #button-container button:hover {
-    background-color: blue;
+    background-color: orange;
     color: white;
 }
 
