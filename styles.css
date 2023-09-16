@@ -7,6 +7,7 @@
   font-stretch: normal;
   unicode-range: U20-2193;
 }
+
 body {
 	font-family: 'NYCTAStandard-Medium', 'Akzidenz Grotesk', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 	font-weight: normal;
@@ -106,6 +107,7 @@ header {
 	font-size: 8vw;
 	line-height: 1;
 }
+
 .menu {
     margin-top: 0;
     border-top: 0vw solid white;
@@ -113,6 +115,7 @@ header {
     margin-bottom: 0%;
 	font-size: 42px;
 	line-height: 1.1;
+    display: inline-block;
 }
 .menu a {
     text-decoration: none;  /* Removes underline */
