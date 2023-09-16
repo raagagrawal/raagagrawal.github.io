@@ -19,3 +19,15 @@ body {
 	inline-size: 600px;
 	overflow-wrap: break-word;
 }
+
+/* create style for <hr> tag that limits it to 600px and left aligns it */
+hr {
+    width: 600px;
+    height: 1px;
+    background: black;
+    border: none;
+    margin-left: 0;
+    margin-right: auto;
+}
+
+
