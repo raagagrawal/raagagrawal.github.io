@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Raag Agrawal'
 theme = "hugo-theme-console"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   description = "Raag Agrawal — MD-PhD candidate at UCLA-Caltech MSTP. Cancer genomics, translational oncology, and health disparities research."
   titleCutting = false
