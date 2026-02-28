@@ -8,9 +8,6 @@ theme = "hugo-theme-console"
     [markup.goldmark.renderer]
       unsafe = true
 
-[[module.imports]]
-  path = "github.com/mrmierzejewski/hugo-theme-console"
-
 [params]
   description = "Raag Agrawal — MD-PhD candidate at UCLA-Caltech MSTP. Cancer genomics, translational oncology, and health disparities research."
   titleCutting = false
@@ -31,3 +28,6 @@ theme = "hugo-theme-console"
   [[params.navlinks]]
   name = "cv"
   url = "cv/"
+
+  [[module.imports]]
+  path = "github.com/mrmierzejewski/hugo-theme-console"
