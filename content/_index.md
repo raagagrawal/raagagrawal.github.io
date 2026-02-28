@@ -2,7 +2,9 @@
 title: "Home"
 ---
 
-<img src="/images/headshot.jpg" alt="Headshot" style="max-width: 220px; border-radius: 8px; margin-bottom: 1em;">
+<img src="/images/headshot.jpg" alt="Headshot" style="max-width: 220px; border-radius: 8px; margin-bottom: 0.3em;">
+
+**Raag Agrawal, Ph.D.**
 
 MD-PhD Candidate · [UCLA-Caltech Medical Scientist Training Program](https://mstp.healthsciences.ucla.edu/)
 
