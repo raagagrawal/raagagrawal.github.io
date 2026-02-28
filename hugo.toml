@@ -1,4 +1,25 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://raagagrawal.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Raag Agrawal'
 theme = "hugo-theme-console"
+
+[params]
+  description = "Raag Agrawal — MD-PhD candidate at UCLA-Caltech MSTP. Cancer genomics, translational oncology, and health disparities research."
+  titleCutting = false
+  animateStyle = "animated fadeIn fast"
+
+  [[params.navlinks]]
+  name = "about"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "research"
+  url = "research/"
+
+  [[params.navlinks]]
+  name = "publications"
+  url = "publications/"
+
+  [[params.navlinks]]
+  name = "cv"
+  url = "cv/"
