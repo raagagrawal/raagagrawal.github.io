@@ -2,6 +2,11 @@ baseURL = 'https://raagagrawal.com/'
 languageCode = 'en-us'
 title = 'Raag Agrawal'
 theme = "hugo-theme-console"
+enableRobotsTXT = true
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-2DVX1LFMJN"
 
 [markup]
   [markup.goldmark]

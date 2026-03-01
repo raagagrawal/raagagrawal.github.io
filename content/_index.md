@@ -1,8 +1,9 @@
 ---
 title: "Home"
+image: "images/headshot.jpg"
 ---
 
-<img src="/images/headshot.jpg" alt="Headshot" style="max-width: 220px; border-radius: 8px; margin-bottom: 0.3em;">
+<img src="/images/headshot.jpg" alt="Raag Agrawal — MD-PhD candidate at UCLA-Caltech Medical Scientist Training Program" style="max-width: 220px; border-radius: 8px; margin-bottom: 0.3em;">
 
 **Raag Agrawal, Ph.D.**
 
