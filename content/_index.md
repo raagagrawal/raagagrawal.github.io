@@ -15,4 +15,4 @@ My research interests span **translational oncology**, **cancer genomics**, and 
 
 Before UCLA, I graduated *Cum Laude* from Columbia University as an I.I. Rabi Scholar, and spent a year at the University of Cambridge and the Wellcome Sanger Institute working on the Human Cell Atlas.
 
-[Email](mailto:ragrawal@mednet.ucla.edu) · [Google Scholar](https://scholar.google.com/citations?user=aNm_oU4AAAAJ&hl=en) · [GitHub](https://github.com/raagagrawal)
+[Email](mailto:ragrawal@mednet.ucla.edu) · [Google Scholar](https://scholar.google.com/citations?user=aNm_oU4AAAAJ&hl=en) · [GitHub](https://github.com/raagagrawal) · [ORCID](https://orcid.org/0000-0001-8222-3117) · [LinkedIn](https://www.linkedin.com/in/raag-agrawal-6bbb71112/)
