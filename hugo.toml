@@ -14,7 +14,7 @@ enableRobotsTXT = true
       unsafe = true
 
 [params]
-  description = "Raag Agrawal — MD-PhD candidate at UCLA-Caltech MSTP. Cancer genomics, translational oncology, and health disparities research."
+  description = "Raag Agrawal, PhD — physician-scientist in training at the UCLA-Caltech MSTP. Radiation oncology, genitourinary oncology, and cancer genomics. Open to consulting and VC scout work."
   titleCutting = false
   animateStyle = "animated fadeIn fast"
 
@@ -29,6 +29,10 @@ enableRobotsTXT = true
   [[params.navlinks]]
   name = "publications"
   url = "publications/"
+
+  [[params.navlinks]]
+  name = "consulting"
+  url = "consulting/"
 
   [[params.navlinks]]
   name = "cv"
